@@ -1,6 +1,3 @@
-// import RenderUtil from "./src/common/RenderUtil.js";
-// import CustomPrimitive from "./src/common/CustomPrimitive.js";
-
 const Common = `
         uniform sampler2D heightMap;
         uniform float heightScale;
